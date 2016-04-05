@@ -1,0 +1,10 @@
+io/swagger/client/auth/OAuth.class
+io/swagger/client/StringUtil.class
+io/swagger/client/model/Banner.class
+io/swagger/client/auth/Authentication.class
+io/swagger/client/model/Error.class
+io/swagger/client/api/RTBDetailsApi.class
+io/swagger/client/auth/HttpBasicAuth.class
+io/swagger/client/api/RTBDetailsApi$1.class
+io/swagger/client/ApiException.class
+io/swagger/client/Pair.class
